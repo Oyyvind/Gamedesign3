@@ -1691,3 +1691,30 @@ Please see Output Log for details.
 [2020.11.04-18.24.07:624][376]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.04-18.24.07:624][376]LogContentValidation: Display: Validating Skeleton /Game/GAD03/AnimationResources/UE_MX_Mannequin_Skeleton.UE_MX_Mannequin_Skeleton
 [2020.11.04-18.24.07:624][376]LogContentValidation: Display: Validating Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2020.11.04-18.24.33:673][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.11.04-18.24.33:676][657]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GAD03/Maps/ThirdPersonExampleMap' took 0.018
+[2020.11.04-18.24.33:677][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GAD03/AnimationResources/UE_MX_Mannequin] ([1] browsable assets)...
+[2020.11.04-18.24.33:692][657]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/GAD03/AnimationResources/UE_MX_Mannequin.UE_MX_Mannequin]
+[2020.11.04-18.24.33:692][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/GAD03/AnimationResources/UE_MX_Mannequin]
+[2020.11.04-18.24.33:810][657]LogSavePackage: Moving '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/UE_MX_Mannequin_Auto20AD60282421F7D6D49EE6FA136D268B6.tmp' to '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/Autosaves/Game/GAD03/AnimationResources/UE_MX_Mannequin_Auto2.uasset'
+[2020.11.04-18.24.33:811][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GAD03/AnimationResources/M_UE4Man_Body] ([1] browsable assets)...
+[2020.11.04-18.24.33:824][657]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GAD03/AnimationResources/M_UE4Man_Body.M_UE4Man_Body]
+[2020.11.04-18.24.33:824][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/GAD03/AnimationResources/M_UE4Man_Body]
+[2020.11.04-18.24.33:829][657]LogSavePackage: Moving '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/M_UE4Man_Body_Auto216FAA81A4915C4242FBE02B35513EC8B.tmp' to '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/Autosaves/Game/GAD03/AnimationResources/M_UE4Man_Body_Auto2.uasset'
+[2020.11.04-18.24.33:830][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GAD03/AnimationResources/M_UE4Man_ChestLogo] ([1] browsable assets)...
+[2020.11.04-18.24.33:844][657]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GAD03/AnimationResources/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo]
+[2020.11.04-18.24.33:844][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/GAD03/AnimationResources/M_UE4Man_ChestLogo]
+[2020.11.04-18.24.33:850][657]LogSavePackage: Moving '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/M_UE4Man_ChestLogo_Auto261478E39495F8D8E107E138D057D8CCE.tmp' to '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/Autosaves/Game/GAD03/AnimationResources/M_UE4Man_ChestLogo_Auto2.uasset'
+[2020.11.04-18.24.33:851][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GAD03/AnimationResources/UE_MX_Mannequin_PhysicsAsset] ([1] browsable assets)...
+[2020.11.04-18.24.33:863][657]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/GAD03/AnimationResources/UE_MX_Mannequin_PhysicsAsset.UE_MX_Mannequin_PhysicsAsset]
+[2020.11.04-18.24.33:863][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/GAD03/AnimationResources/UE_MX_Mannequin_PhysicsAsset]
+[2020.11.04-18.24.33:875][657]LogSavePackage: Moving '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/UE_MX_Mannequin_PhysicsAsset_Aut0E21588646E783760C0703853F081CBE.tmp' to '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/Autosaves/Game/GAD03/AnimationResources/UE_MX_Mannequin_PhysicsAsset_Auto2.uasset'
+[2020.11.04-18.24.33:876][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GAD03/AnimationResources/Zombie_Dying__1__Take_001] ([1] browsable assets)...
+[2020.11.04-18.24.33:889][657]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/GAD03/AnimationResources/Zombie_Dying__1__Take_001.Zombie_Dying__1__Take_001]
+[2020.11.04-18.24.33:889][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/GAD03/AnimationResources/Zombie_Dying__1__Take_001]
+[2020.11.04-18.24.33:895][657]LogSavePackage: Moving '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/Zombie_Dying__1__Take_001_Auto255116ADD412836E91605F183E8A5F0CC.tmp' to '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/Autosaves/Game/GAD03/AnimationResources/Zombie_Dying__1__Take_001_Auto2.uasset'
+[2020.11.04-18.24.33:905][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GAD03/AnimationResources/Zombie_Dying__1__mixamo_com] ([1] browsable assets)...
+[2020.11.04-18.24.33:917][657]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/GAD03/AnimationResources/Zombie_Dying__1__mixamo_com.Zombie_Dying__1__mixamo_com]
+[2020.11.04-18.24.33:917][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/GAD03/AnimationResources/Zombie_Dying__1__mixamo_com]
+[2020.11.04-18.24.33:954][657]LogSavePackage: Moving '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/Zombie_Dying__1__mixamo_com_AutoC6FB49F84480841E4EC3F2B1AAFB8098.tmp' to '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/Autosaves/Game/GAD03/AnimationResources/Zombie_Dying__1__mixamo_com_Auto2.uasset'
+[2020.11.04-18.24.33:955][657]LogFileHelpers: Auto-saving content packages took 0.279
