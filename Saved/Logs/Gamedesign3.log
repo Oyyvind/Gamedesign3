@@ -942,3 +942,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.04-19.22.33:110][883]SourceControl:  create mode 100644 Content/GAD03/Meshes/TestActor.uasset
 [2020.11.04-19.22.33:110][883]SourceControl:  rewrite Content/StarterContent/Materials/M_Metal_Steel.uasset (98%)
 [2020.11.04-19.22.33:118][883]SourceControl: Commited [master 8cfee75] 20:22.
+[2020.11.04-19.26.12:607][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.11.04-19.26.34:860][238]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.04-19.26.42:907][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.11.04-19.26.49:138][146]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.04-19.26.49:307][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.11.04-19.26.49:329][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.11.04-19.26.49:342][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.04-19.26.49:508][146]SourceControl: Error: Updated 0 paths from the index
+[2020.11.04-19.26.49:612][146]SourceControl: rm 'Content/GAD03/Meshes/TestActor.uasset'
+[2020.11.04-19.26.52:995][328]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.11.04-19.26.56:930][771]SourceControl: Error: fatal: pathspec 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Content/GAD03/Meshes/TestActor.uasset' did not match any files
+[2020.11.04-19.26.59:337][771]LogSlate: Window 'Message' being destroyed
+[2020.11.04-19.26.59:342][771]Message dialog closed, result: Ok, title: Message, text: Failed to revert package which was marked for delete.
+[2020.11.04-19.27.03:526][106]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.11.04-19.27.10:176][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GAD03/Meshes/TestActorForCommit" FILE="../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Content/GAD03/Meshes/TestActorForCommit.uasset" SILENT=true
+[2020.11.04-19.27.10:179][859]LogSavePackage: Moving '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Saved/TestActorForCommitCCB667B54E367780418C609CCF4EE498.tmp' to '../../../../../3DGD/3DGD/GAD03/UE4 Work/Gamedesign3/Content/GAD03/Meshes/TestActorForCommit.uasset'
+[2020.11.04-19.27.10:482][859]AssetCheck: New page: Asset Save: TestActorForCommit
+[2020.11.04-19.27.10:482][859]LogContentValidation: Display: Validating Blueprint /Game/GAD03/Meshes/TestActorForCommit.TestActorForCommit
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Content: 'D:/Unreal Engine/UE_4.25/Engine/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Marketplace/Substance/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Marketplace/Substance/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.15:021][293]SourceControl: fatal: D:/Unreal Engine/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Unreal Engine/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/3DGD/3DGD/GAD03/UE4 Work/Gamedesign3'
+[2020.11.04-19.27.28:912][293]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.04-19.27.29:379][293]LogSourceControl: commit successful: [master b38e8d3] 20:27
+[2020.11.04-19.27.29:423][293]SourceControl: [master b38e8d3] 20:27
+[2020.11.04-19.27.29:423][293]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.11.04-19.27.29:423][293]SourceControl:  create mode 100644 Content/GAD03/Meshes/TestActorForCommit.uasset
+[2020.11.04-19.27.29:431][293]SourceControl: Commited [master b38e8d3] 20:27.
